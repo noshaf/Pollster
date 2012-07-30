@@ -1,2 +1,8 @@
-<h1>Polls#edit</h1>
-<p>Find me in app/views/polls/edit.html.erb</p>
+<h1>Add questions to your Poll!</h1>
+<%= form_for @question do |f| %>
+	<%= f.text_field :prompt %>
+	<%= f.hidden_field :poll_id, :value => params[:id] %>
+	<%= f.submit %>
+<% end %>
+	
+

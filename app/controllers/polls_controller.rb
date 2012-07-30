@@ -10,6 +10,7 @@ class PollsController < ApplicationController
   end
 
   def edit
+    @question = Question.new
   end
 
   def show

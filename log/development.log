@@ -4925,3 +4925,26 @@ Served asset /jquery.js - 304 Not Modified (0ms)
 
 Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-07-30 12:39:13 -0700
 Served asset /application.js - 304 Not Modified (0ms)
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+  [1m[36m (0.2ms)[0m  [1mSELECT "schema_migrations"."version" FROM "schema_migrations" [0m
+Migrating to CreatePolls (20120730175944)
+Migrating to CreateQuestions (20120730180339)
+Migrating to CreateAnswers (20120730180718)
+Migrating to AddPollIdToQuestions (20120730213908)
+  [1m[35m (0.1ms)[0m  select sqlite_version(*)
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.5ms)[0m  ALTER TABLE "questions" ADD "poll_id" integer
+  [1m[36m (0.1ms)[0m  [1mINSERT INTO "schema_migrations" ("version") VALUES ('20120730213908')[0m
+  [1m[35m (1.6ms)[0m  commit transaction
+Migrating to AddQuestionIdToAnswers (20120730213934)
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.4ms)[0m  ALTER TABLE "answers" ADD "question_id" integer
+  [1m[36m (0.1ms)[0m  [1mINSERT INTO "schema_migrations" ("version") VALUES ('20120730213934')[0m
+  [1m[35m (1.3ms)[0m  commit transaction
+  [1m[36m (0.4ms)[0m  [1mselect sqlite_version(*)[0m
+  [1m[35m (0.1ms)[0m  SELECT "schema_migrations"."version" FROM "schema_migrations" 
+  [1m[36m (0.0ms)[0m  [1mPRAGMA index_list("answers")[0m
+  [1m[35m (0.0ms)[0m  PRAGMA index_list("polls")
+  [1m[36m (0.0ms)[0m  [1mPRAGMA index_list("questions")[0m
