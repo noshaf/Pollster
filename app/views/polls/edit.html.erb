@@ -4,5 +4,10 @@
 	<%= f.hidden_field :poll_id, :value => params[:id] %>
 	<%= f.submit %>
 <% end %>
+
+<% @poll.questions.each_with_index do |question, index| %>
+	<%="#{index+1}. #{question.prompt}" %>
+	<%= link_to "Edit", edit_question_path(question) %><br><br>
+<% end %>
 	
 

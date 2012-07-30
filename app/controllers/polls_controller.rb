@@ -10,13 +10,16 @@ class PollsController < ApplicationController
   end
 
   def edit
+    @poll = Poll.find(params[:id])
     @question = Question.new
   end
 
   def show
     @poll = Poll.find_by_link(params[:link])
+    @answer = Answer.new
     redirect_to polls_path, :alert => "Invalid URL" unless @poll
   end
+  
   def update
   end
 

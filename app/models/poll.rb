@@ -3,6 +3,12 @@ class Poll < ActiveRecord::Base
   before_save :create_link
   has_many :questions
   
+  def find_next(first_question)
+    self.questions.each_with_index do |question, index|
+      return self.questions[index + 1] if first_question == question
+    end
+  end
+  
   private
   
   def create_link

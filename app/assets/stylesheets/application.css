@@ -12,6 +12,6 @@
  *= require_tree .
  */
 
-h3.note {
+.note {
   display: inline;
 }

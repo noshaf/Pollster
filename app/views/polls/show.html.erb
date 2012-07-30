@@ -1,6 +1,12 @@
 <div class="row">
 	<div class="span4">
-		<h1><%= @poll.name %></h1>
+		<h1 class="note"><%= @poll.name %></h1>
+			<%= link_to "Take Poll", question_path(@poll.questions.first) %><br>
+			<br>
+			<% @poll.questions.each do |question| %>
+				<%= question.prompt %><br>
+				<br>
+			<% end %>
 	</div>
 </div>
 

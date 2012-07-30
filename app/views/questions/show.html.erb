@@ -1,2 +1,6 @@
-<h1>Questions#show</h1>
-<p>Find me in app/views/questions/show.html.erb</p>
+<h1><%= @question.prompt %></h1>
+<%= form_for @answer do |f| %>
+	<%= f.text_area :statement, :rows => 5 %><br>
+	<%= f.hidden_field :question_id, :value => @question.id %>
+	<%= f.submit :value => "Answer" %>
+<% end %>

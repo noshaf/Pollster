@@ -1,5 +1,8 @@
-<h1>Add some answers to your Question!</h1>
-<%= form_for @answer do |f| %>
-	<%= f.text_field :statement %>
+<h1>Edit Question</h1>
+<%= form_for @question do |f| %>
+	<%= f.text_field :prompt %><br>
 	<%= f.submit %>
+<% end %>
+<%= form_for @question, :html => { :method => :delete } do |f| %>
+	<%= f.submit :value => "Delete" %>
 <% end %>

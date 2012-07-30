@@ -1,8 +1,6 @@
 Pollster::Application.routes.draw do
   
-  resources :questions
-
-  resources :polls
+  resources :answers, :questions, :polls
   
   root :to => 'polls#index'
   
