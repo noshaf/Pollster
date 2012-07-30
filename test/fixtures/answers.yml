@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  statement: MyString
+  check: 1
+
+two:
+  statement: MyString
+  check: 1
