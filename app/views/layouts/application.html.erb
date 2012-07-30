@@ -33,9 +33,13 @@
 		    	</div>
 		  	</div>
 		  </div>
+		
+		<%= content_tag :p, flash[:notice], :class => "notice" if flash[:notice] %>
+		<%= content_tag :p, flash[:alert], :class => "alert" if flash[:alert] %>
+		
 	<div class="container-fluid">
 	<%= yield %>
 	</div>
-
+	
 </body>
 </html>

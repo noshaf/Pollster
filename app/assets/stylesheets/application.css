@@ -11,3 +11,7 @@
  *= require_self
  *= require_tree .
  */
+
+h3.note {
+  display: inline;
+}

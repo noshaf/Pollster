@@ -6,16 +6,16 @@ class PollsController < ApplicationController
   def create
     @poll = Poll.new(params[:poll])
     @poll.save
-    redirect_to poll_path(@poll)
+    redirect_to polls_path(@poll)
   end
 
   def edit
   end
 
   def show
-    @poll = Poll.find(params[:id])
+    @poll = Poll.find_by_link(params[:link])
+    redirect_to polls_path, :alert => "Invalid URL" unless @poll
   end
-
   def update
   end
 
@@ -23,5 +23,6 @@ class PollsController < ApplicationController
   end
 
   def index
+    @polls = Poll.all
   end
 end
