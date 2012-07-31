@@ -1,8 +1,7 @@
-<div class="hero-unit" align="center">
-	<h1> Welcome to Poll World<h1>
-	<h4>Click below to create a Poll</h4><br>
-	<%= form_for @poll do |f| %>
-		<%= f.text_field :name %><br>
-		<%= f.submit %>
-	<%end%>
-</div>
+<h1> Welcome to Poll World<h1>
+<h4>Click below to create a Poll</h4><br>
+<%= form_for @poll do |f| %>
+	<%= f.text_field :name %><br>
+	<%= f.submit %>
+<%end%>
+

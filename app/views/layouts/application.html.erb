@@ -37,7 +37,9 @@
 		<%= content_tag :p, flash[:alert], :class => "alert" if flash[:alert] %>
 		
 	<div class="container-fluid">
-	<%= yield %>
+		<div class="hero-unit" align="center">
+			<%= yield %>
+		</div>
 	</div>
 	
 </body>

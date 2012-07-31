@@ -1,19 +1,16 @@
-<div class="row">
-	<div class="hero-unit" align="center">
-		<h1 class="note"><%= @poll.name %></h1><br>
+<h1 class="note"><%= @poll.name %></h1><br>
+<br>
+	<%= link_to "Take Poll", question_path(@poll.questions.first) %><br>
+	<br>
+	<% @poll.questions.each_with_index do |question, index| %>
+		<div class="well">
+			<div align="left">
+				<%= "Question#{index+1}:" %>
+			</div>
+			<%= question.prompt %>
+		</div>
 		<br>
-			<%= link_to "Take Poll", question_path(@poll.questions.first) %><br>
-			<br>
-			<% @poll.questions.each_with_index do |question, index| %>
-				<div class="well">
-					<div align="left">
-						<%= "Question#{index+1}:" %>
-					</div>
-					<%= question.prompt %>
-				</div>
-				<br>
-			<% end %>
-			<%= link_to "See Results...", polls_path(:id => @poll.id) %>
-	</div>
-</div>
+	<% end %>
+	<%= link_to "See Results...", polls_path(:id => @poll.id) %>
+
 

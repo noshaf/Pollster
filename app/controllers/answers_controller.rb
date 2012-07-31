@@ -3,8 +3,7 @@ class AnswersController < ApplicationController
     @question = Question.find(params[:answer][:question_id])
     @answer = @question.answers.new(params[:answer])
     @answer.save
-    next_question = @question.poll.find_next(@question)
-    if next_question
+    if next_question = @question.poll.find_next(@question)
       redirect_to question_path(next_question)
     else
       redirect_to "/#{@question.poll.link}", :alert => "Thanks for Taking this Poll!"

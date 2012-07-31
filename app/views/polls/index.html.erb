@@ -1,20 +1,17 @@
-<div class="row">
-	<div class="hero-unit" align="center">
-		<h1 class="note">Here are the poll results</h1><br>
-		<br>
-		<% @poll.questions.each_with_index do |question, index| %>
-			<div class="well">
-				<div align="left">
-					<%= "Question#{index+1}: #{question.prompt}" %>
-				</div>
-				Answers:
-				<% question.answers.each do |answer| %>
-					<div class="well"> 
-						<%= answer.statement %>
-					</div>
-				<% end %>
-				</div>
-			<% end %>
-		<br>
-	</div>
-</div>
+<h1 class="note">Here are the poll results</h1><br>
+<br>
+<% @poll.questions.each_with_index do |question, index| %>
+	<div class="well">
+		<div align="left">
+			<%= "Question#{index+1}: #{question.prompt}" %>
+		</div>
+		Answers:
+		<% question.answers.each do |answer| %>
+			<div class="well"> 
+				<%= answer.statement %>
+			</div>
+		<% end %>
+		</div>
+	<% end %>
+
+

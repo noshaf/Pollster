@@ -1,6 +1,6 @@
 class Poll < ActiveRecord::Base
   attr_accessible :link, :name
-  before_save :create_link
+  before_create :create_link
   has_many :questions
   
   def find_next(first_question)
