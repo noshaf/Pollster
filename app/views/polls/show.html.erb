@@ -1,12 +1,19 @@
 <div class="row">
-	<div class="span4">
-		<h1 class="note"><%= @poll.name %></h1>
+	<div class="hero-unit" align="center">
+		<h1 class="note"><%= @poll.name %></h1><br>
+		<br>
 			<%= link_to "Take Poll", question_path(@poll.questions.first) %><br>
 			<br>
-			<% @poll.questions.each do |question| %>
-				<%= question.prompt %><br>
+			<% @poll.questions.each_with_index do |question, index| %>
+				<div class="well">
+					<div align="left">
+						<%= "Question#{index+1}:" %>
+					</div>
+					<%= question.prompt %>
+				</div>
 				<br>
 			<% end %>
+			<%= link_to "See Results...", question_path(@poll.questions.first) %>
 	</div>
 </div>
 

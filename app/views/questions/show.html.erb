@@ -1,6 +1,8 @@
-<h1><%= @question.prompt %></h1>
-<%= form_for @answer do |f| %>
-	<%= f.text_area :statement, :rows => 5 %><br>
-	<%= f.hidden_field :question_id, :value => @question.id %>
-	<%= f.submit :value => "Answer" %>
-<% end %>
+<div class="hero-unit" align="center">
+	<h1><%= @question.prompt %></h1>
+	<%= form_for @answer do |f| %>
+		<%= f.text_area :statement, :style => "width: 500px", :rows => 7 %><br>
+		<%= f.hidden_field :question_id, :value => @question.id %>
+		<%= f.submit :value => "Answer" %>
+	<% end %>
+</div>

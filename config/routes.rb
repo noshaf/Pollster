@@ -2,7 +2,7 @@ Pollster::Application.routes.draw do
   
   resources :answers, :questions, :polls
   
-  root :to => 'polls#index'
+  root :to => 'polls#new'
   
   match "/:link" => "polls#show" 
 

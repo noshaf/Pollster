@@ -1,13 +1,16 @@
-<h1>Add questions to your Poll!</h1>
-<%= form_for @question do |f| %>
-	<%= f.text_field :prompt %>
-	<%= f.hidden_field :poll_id, :value => params[:id] %>
-	<%= f.submit %>
-<% end %>
+<div class="hero-unit" align="center">
+	<h1>Add questions to your Poll!</h1><br>
+	<%= form_for @question do |f| %>
+		<%= f.text_field :prompt %>
+		<%= f.hidden_field :poll_id, :value => params[:id] %><br>
+		<%= f.submit %>
+	<% end %>
 
-<% @poll.questions.each_with_index do |question, index| %>
-	<%="#{index+1}. #{question.prompt}" %>
-	<%= link_to "Edit", edit_question_path(question) %><br><br>
-<% end %>
-	
+	<% @poll.questions.each_with_index do |question, index| %>
+		<%="#{index+1}. #{question.prompt}" %>
+		<%= link_to "Edit", edit_question_path(question) %><br><br>
+	<% end %>
+	Here is your link:<br>
+	<%= link_to "#{root_url}/#{@poll.link}", "/#{@poll.link}" %>
+</div>
 
