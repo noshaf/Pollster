@@ -4948,3 +4948,4 @@ Migrating to AddQuestionIdToAnswers (20120730213934)
   [1m[36m (0.0ms)[0m  [1mPRAGMA index_list("answers")[0m
   [1m[35m (0.0ms)[0m  PRAGMA index_list("polls")
   [1m[36m (0.0ms)[0m  [1mPRAGMA index_list("questions")[0m
+Connecting to database specified by database.yml
