@@ -27,6 +27,6 @@ class PollsController < ApplicationController
   end
 
   def index
-    @polls = Poll.all
+    @poll = Poll.find(params[:id])
   end
 end

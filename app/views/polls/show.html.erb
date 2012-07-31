@@ -13,7 +13,7 @@
 				</div>
 				<br>
 			<% end %>
-			<%= link_to "See Results...", question_path(@poll.questions.first) %>
+			<%= link_to "See Results...", polls_path(:id => @poll.id) %>
 	</div>
 </div>
 

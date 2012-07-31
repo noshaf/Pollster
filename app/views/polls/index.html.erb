@@ -1,11 +1,20 @@
 <div class="row">
-	<div class="span4">
-		<h1>Here are your polls!</h1>
-		<p>Click edit to add questions</p>
-		<% @polls.each do |poll| %>
-		<h3 class="note"><%= "#{poll.name}" %>	</h3>
-		<%= link_to "Edit Poll", edit_poll_path(poll)%><br>
-		<%= link_to "#{root_url}#{poll.link}", "#{root_url}#{poll.link}" %><br><br>
-		<%end%>
+	<div class="hero-unit" align="center">
+		<h1 class="note">Here are the poll results</h1><br>
+		<br>
+		<% @poll.questions.each_with_index do |question, index| %>
+			<div class="well">
+				<div align="left">
+					<%= "Question#{index+1}: #{question.prompt}" %>
+				</div>
+				Answers:
+				<% question.answers.each do |answer| %>
+					<div class="well"> 
+						<%= answer.statement %>
+					</div>
+				<% end %>
+				</div>
+			<% end %>
+		<br>
 	</div>
 </div>
