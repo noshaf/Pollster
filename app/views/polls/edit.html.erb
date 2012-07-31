@@ -11,6 +11,6 @@
 		<%= link_to "Edit", edit_question_path(question) %><br><br>
 	<% end %>
 	Here is your link:<br>
-	<%= link_to "#{root_url}/#{@poll.link}", "/#{@poll.link}" %>
+	<%= link_to "#{root_url}#{@poll.link}", "/#{@poll.link}" %>
 </div>
 
