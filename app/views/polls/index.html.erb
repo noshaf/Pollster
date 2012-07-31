@@ -5,7 +5,7 @@
 		<% @polls.each do |poll| %>
 		<h3 class="note"><%= "#{poll.name}" %>	</h3>
 		<%= link_to "Edit Poll", edit_poll_path(poll)%><br>
-		<%= link_to "#{root_url}#{poll.link}", "#{root_path}#{poll.link}" %><br><br>
+		<%= link_to "#{root_url}#{poll.link}", "#{root_url}#{poll.link}" %><br><br>
 		<%end%>
 	</div>
 </div>
