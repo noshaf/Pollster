@@ -6,7 +6,7 @@ class PollsController < ApplicationController
   def create
     @poll = Poll.new(params[:poll])
     @poll.save
-    redirect_to polls_path(@poll)
+    redirect_to edit_poll_path(@poll)
   end
 
   def edit
