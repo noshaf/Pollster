@@ -1,0 +1,27 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/noshaf/Desktop/DevBootcamp/Pollster/spec/models/question_spec.rb": [
+        1,
+        null,
+        1,
+        null,
+        null
+      ],
+      "/Users/noshaf/Desktop/DevBootcamp/Pollster/spec/fabricators/poll_fabricator.rb": [
+        1,
+        3,
+        7,
+        null,
+        null,
+        null
+      ],
+      "/Users/noshaf/Desktop/DevBootcamp/Pollster/spec/fabricators/question_fabricator.rb": [
+        1,
+        13,
+        null
+      ]
+    },
+    "timestamp": 1343782150
+  }
+}

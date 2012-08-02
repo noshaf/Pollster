@@ -1,0 +1,1080 @@
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+
+
+Started GET "/polls" for 127.0.0.1 at 2012-07-31 16:11:18 -0700
+Processing by PollsController#index as HTML
+Completed 500 Internal Server Error in 1ms
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+
+
+Started GET "/polls" for 127.0.0.1 at 2012-07-31 16:11:48 -0700
+Processing by PollsController#index as HTML
+Completed 500 Internal Server Error in 0ms
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+
+
+Started GET "/polls" for 127.0.0.1 at 2012-07-31 16:21:20 -0700
+Processing by PollsController#index as HTML
+Completed 500 Internal Server Error in 0ms
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+
+
+Started GET "/polls" for 127.0.0.1 at 2012-07-31 16:21:47 -0700
+Processing by PollsController#index as HTML
+Completed 500 Internal Server Error in 0ms
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+
+
+Started GET "/polls" for 127.0.0.1 at 2012-07-31 16:22:17 -0700
+Processing by PollsController#index as HTML
+Completed 500 Internal Server Error in 0ms
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+
+
+Started GET "/polls" for 127.0.0.1 at 2012-07-31 16:24:20 -0700
+Processing by PollsController#index as HTML
+Completed 500 Internal Server Error in 0ms
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+
+
+Started GET "/polls" for 127.0.0.1 at 2012-07-31 16:34:52 -0700
+Processing by PollsController#index as HTML
+Completed 500 Internal Server Error in 0ms
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+
+
+Started GET "/polls" for 127.0.0.1 at 2012-07-31 16:36:13 -0700
+Processing by PollsController#index as HTML
+Completed 500 Internal Server Error in 0ms
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+
+
+Started GET "/polls" for 127.0.0.1 at 2012-07-31 16:36:21 -0700
+Processing by PollsController#index as HTML
+Completed 500 Internal Server Error in 0ms
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+
+
+Started GET "/polls" for 127.0.0.1 at 2012-07-31 16:37:37 -0700
+Processing by PollsController#index as HTML
+Completed 500 Internal Server Error in 0ms
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+
+
+Started GET "/polls" for 127.0.0.1 at 2012-07-31 16:37:41 -0700
+Processing by PollsController#index as HTML
+Completed 500 Internal Server Error in 0ms
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+
+
+Started GET "/polls" for 127.0.0.1 at 2012-07-31 16:38:53 -0700
+Processing by PollsController#index as HTML
+Completed 500 Internal Server Error in 0ms
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+
+
+Started GET "/polls" for 127.0.0.1 at 2012-07-31 16:40:16 -0700
+Processing by PollsController#index as HTML
+Completed 500 Internal Server Error in 0ms
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+
+
+Started GET "/polls" for 127.0.0.1 at 2012-07-31 16:41:38 -0700
+Processing by PollsController#index as HTML
+Completed 500 Internal Server Error in 0ms
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (60.9ms)[0m  [1mINSERT INTO "polls" ("created_at", "link", "name", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Tue, 31 Jul 2012 23:51:01 UTC +00:00], ["link", "3039444829"], ["name", "Cool Poll"], ["updated_at", Tue, 31 Jul 2012 23:51:01 UTC +00:00]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.6ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.3ms)[0m  INSERT INTO "polls" ("created_at", "link", "name", "updated_at") VALUES (?, ?, ?, ?)  [["created_at", Tue, 31 Jul 2012 23:51:01 UTC +00:00], ["link", "9796982571"], ["name", "Cool Poll"], ["updated_at", Tue, 31 Jul 2012 23:51:01 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35mQuestion Load (0.1ms)[0m  SELECT "questions".* FROM "questions" WHERE "questions"."poll_id" = 1
+  [1m[36m (0.6ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (3.7ms)[0m  [1mINSERT INTO "polls" ("created_at", "link", "name", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Tue, 31 Jul 2012 23:59:32 UTC +00:00], ["link", "4528419189"], ["name", "Omnis natus ex molestias sint eaque sint."], ["updated_at", Tue, 31 Jul 2012 23:59:32 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.5ms)[0m  [1mrollback transaction[0m
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (4.0ms)[0m  [1mINSERT INTO "polls" ("created_at", "link", "name", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Tue, 31 Jul 2012 23:59:36 UTC +00:00], ["link", "1689306483"], ["name", "Veniam voluptatibus adipisci sed ullam vel facilis."], ["updated_at", Tue, 31 Jul 2012 23:59:36 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.6ms)[0m  [1mrollback transaction[0m
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.6ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (79.0ms)[0m  [1mINSERT INTO "polls" ("created_at", "link", "name", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Wed, 01 Aug 2012 00:16:25 UTC +00:00], ["link", "6007581819"], ["name", nil], ["updated_at", Wed, 01 Aug 2012 00:16:25 UTC +00:00]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.7ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO "polls" ("created_at", "link", "name", "updated_at") VALUES (?, ?, ?, ?)  [["created_at", Wed, 01 Aug 2012 00:16:25 UTC +00:00], ["link", "6007581819"], ["name", nil], ["updated_at", Wed, 01 Aug 2012 00:16:25 UTC +00:00]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35mQuestion Load (0.1ms)[0m  SELECT "questions".* FROM "questions" WHERE "questions"."poll_id" = 1
+  [1m[36m (0.4ms)[0m  [1mrollback transaction[0m
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (4.0ms)[0m  [1mINSERT INTO "polls" ("created_at", "link", "name", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Wed, 01 Aug 2012 00:18:03 UTC +00:00], ["link", "8197284292"], ["name", nil], ["updated_at", Wed, 01 Aug 2012 00:18:03 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.6ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.3ms)[0m  INSERT INTO "polls" ("created_at", "link", "name", "updated_at") VALUES (?, ?, ?, ?)  [["created_at", Wed, 01 Aug 2012 00:18:03 UTC +00:00], ["link", "8197284292"], ["name", nil], ["updated_at", Wed, 01 Aug 2012 00:18:03 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35mQuestion Load (0.1ms)[0m  SELECT "questions".* FROM "questions" WHERE "questions"."poll_id" = 1
+  [1m[36m (0.5ms)[0m  [1mrollback transaction[0m
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (3.8ms)[0m  [1mINSERT INTO "polls" ("created_at", "link", "name", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Wed, 01 Aug 2012 00:18:28 UTC +00:00], ["link", "6109623834"], ["name", nil], ["updated_at", Wed, 01 Aug 2012 00:18:28 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.6ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.3ms)[0m  INSERT INTO "polls" ("created_at", "link", "name", "updated_at") VALUES (?, ?, ?, ?)  [["created_at", Wed, 01 Aug 2012 00:18:28 UTC +00:00], ["link", "6109623834"], ["name", nil], ["updated_at", Wed, 01 Aug 2012 00:18:28 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35mQuestion Load (0.1ms)[0m  SELECT "questions".* FROM "questions" WHERE "questions"."poll_id" = 1
+  [1m[36m (0.5ms)[0m  [1mrollback transaction[0m
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (3.9ms)[0m  [1mINSERT INTO "polls" ("created_at", "link", "name", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Wed, 01 Aug 2012 00:18:43 UTC +00:00], ["link", "1214820894"], ["name", nil], ["updated_at", Wed, 01 Aug 2012 00:18:43 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.7ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.6ms)[0m  INSERT INTO "polls" ("created_at", "link", "name", "updated_at") VALUES (?, ?, ?, ?)  [["created_at", Wed, 01 Aug 2012 00:18:43 UTC +00:00], ["link", "1214820894"], ["name", nil], ["updated_at", Wed, 01 Aug 2012 00:18:43 UTC +00:00]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35mQuestion Load (0.1ms)[0m  SELECT "questions".* FROM "questions" WHERE "questions"."poll_id" = 1
+  [1m[36m (0.5ms)[0m  [1mrollback transaction[0m
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (4.0ms)[0m  [1mINSERT INTO "polls" ("created_at", "link", "name", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Wed, 01 Aug 2012 00:18:51 UTC +00:00], ["link", "8317325002"], ["name", nil], ["updated_at", Wed, 01 Aug 2012 00:18:51 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.8ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.6ms)[0m  INSERT INTO "polls" ("created_at", "link", "name", "updated_at") VALUES (?, ?, ?, ?)  [["created_at", Wed, 01 Aug 2012 00:18:51 UTC +00:00], ["link", "8317325002"], ["name", nil], ["updated_at", Wed, 01 Aug 2012 00:18:51 UTC +00:00]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35mQuestion Load (0.1ms)[0m  SELECT "questions".* FROM "questions" WHERE "questions"."poll_id" = 1
+  [1m[36m (0.6ms)[0m  [1mrollback transaction[0m
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (3.9ms)[0m  [1mINSERT INTO "polls" ("created_at", "link", "name", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Wed, 01 Aug 2012 00:19:12 UTC +00:00], ["link", "1585892007"], ["name", nil], ["updated_at", Wed, 01 Aug 2012 00:19:12 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.5ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.3ms)[0m  INSERT INTO "polls" ("created_at", "link", "name", "updated_at") VALUES (?, ?, ?, ?)  [["created_at", Wed, 01 Aug 2012 00:19:12 UTC +00:00], ["link", "1585892007"], ["name", nil], ["updated_at", Wed, 01 Aug 2012 00:19:12 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.6ms)[0m  [1mINSERT INTO "questions" ("created_at", "poll_id", "prompt", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Wed, 01 Aug 2012 00:19:12 UTC +00:00], ["poll_id", 1], ["prompt", nil], ["updated_at", Wed, 01 Aug 2012 00:19:12 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36mQuestion Load (0.1ms)[0m  [1mSELECT "questions".* FROM "questions" WHERE "questions"."poll_id" = 1[0m
+  [1m[35m (0.6ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (4.4ms)[0m  [1mINSERT INTO "polls" ("created_at", "link", "name", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Wed, 01 Aug 2012 00:19:15 UTC +00:00], ["link", "2000477097"], ["name", nil], ["updated_at", Wed, 01 Aug 2012 00:19:15 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.6ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.3ms)[0m  INSERT INTO "polls" ("created_at", "link", "name", "updated_at") VALUES (?, ?, ?, ?)  [["created_at", Wed, 01 Aug 2012 00:19:15 UTC +00:00], ["link", "2000477097"], ["name", nil], ["updated_at", Wed, 01 Aug 2012 00:19:15 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.5ms)[0m  [1mINSERT INTO "questions" ("created_at", "poll_id", "prompt", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Wed, 01 Aug 2012 00:19:16 UTC +00:00], ["poll_id", 1], ["prompt", nil], ["updated_at", Wed, 01 Aug 2012 00:19:16 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36mQuestion Load (0.1ms)[0m  [1mSELECT "questions".* FROM "questions" WHERE "questions"."poll_id" = 1[0m
+  [1m[35m (0.6ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (4.2ms)[0m  [1mINSERT INTO "polls" ("created_at", "link", "name", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Wed, 01 Aug 2012 00:19:22 UTC +00:00], ["link", "5883976884"], ["name", nil], ["updated_at", Wed, 01 Aug 2012 00:19:22 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.7ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.3ms)[0m  INSERT INTO "polls" ("created_at", "link", "name", "updated_at") VALUES (?, ?, ?, ?)  [["created_at", Wed, 01 Aug 2012 00:19:22 UTC +00:00], ["link", "5883976884"], ["name", nil], ["updated_at", Wed, 01 Aug 2012 00:19:22 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.6ms)[0m  [1mINSERT INTO "questions" ("created_at", "poll_id", "prompt", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Wed, 01 Aug 2012 00:19:22 UTC +00:00], ["poll_id", 1], ["prompt", nil], ["updated_at", Wed, 01 Aug 2012 00:19:22 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36mQuestion Load (0.1ms)[0m  [1mSELECT "questions".* FROM "questions" WHERE "questions"."poll_id" = 1[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "questions" ("created_at", "poll_id", "prompt", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Wed, 01 Aug 2012 00:19:22 UTC +00:00], ["poll_id", 1], ["prompt", nil], ["updated_at", Wed, 01 Aug 2012 00:19:22 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.5ms)[0m  [1mrollback transaction[0m
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (4.6ms)[0m  [1mINSERT INTO "polls" ("created_at", "link", "name", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Wed, 01 Aug 2012 00:19:51 UTC +00:00], ["link", "9296619990"], ["name", nil], ["updated_at", Wed, 01 Aug 2012 00:19:51 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.5ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.3ms)[0m  INSERT INTO "polls" ("created_at", "link", "name", "updated_at") VALUES (?, ?, ?, ?)  [["created_at", Wed, 01 Aug 2012 00:19:51 UTC +00:00], ["link", "9296619990"], ["name", nil], ["updated_at", Wed, 01 Aug 2012 00:19:51 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.6ms)[0m  [1mINSERT INTO "questions" ("created_at", "poll_id", "prompt", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Wed, 01 Aug 2012 00:19:51 UTC +00:00], ["poll_id", 1], ["prompt", nil], ["updated_at", Wed, 01 Aug 2012 00:19:51 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36mQuestion Load (0.1ms)[0m  [1mSELECT "questions".* FROM "questions" WHERE "questions"."poll_id" = 1[0m
+  [1m[35m (0.6ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (3.9ms)[0m  [1mINSERT INTO "polls" ("created_at", "link", "name", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Wed, 01 Aug 2012 00:19:55 UTC +00:00], ["link", "5203606999"], ["name", nil], ["updated_at", Wed, 01 Aug 2012 00:19:55 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.6ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.3ms)[0m  INSERT INTO "polls" ("created_at", "link", "name", "updated_at") VALUES (?, ?, ?, ?)  [["created_at", Wed, 01 Aug 2012 00:19:55 UTC +00:00], ["link", "5203606999"], ["name", nil], ["updated_at", Wed, 01 Aug 2012 00:19:55 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.6ms)[0m  [1mINSERT INTO "questions" ("created_at", "poll_id", "prompt", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Wed, 01 Aug 2012 00:19:55 UTC +00:00], ["poll_id", 1], ["prompt", nil], ["updated_at", Wed, 01 Aug 2012 00:19:55 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36mQuestion Load (0.1ms)[0m  [1mSELECT "questions".* FROM "questions" WHERE "questions"."poll_id" = 1[0m
+  [1m[35m (0.6ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (4.0ms)[0m  [1mINSERT INTO "polls" ("created_at", "link", "name", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Wed, 01 Aug 2012 00:20:20 UTC +00:00], ["link", "0575877772"], ["name", nil], ["updated_at", Wed, 01 Aug 2012 00:20:20 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.6ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.3ms)[0m  INSERT INTO "polls" ("created_at", "link", "name", "updated_at") VALUES (?, ?, ?, ?)  [["created_at", Wed, 01 Aug 2012 00:20:20 UTC +00:00], ["link", "0575877772"], ["name", nil], ["updated_at", Wed, 01 Aug 2012 00:20:20 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.5ms)[0m  [1mINSERT INTO "questions" ("created_at", "poll_id", "prompt", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Wed, 01 Aug 2012 00:20:20 UTC +00:00], ["poll_id", 1], ["prompt", nil], ["updated_at", Wed, 01 Aug 2012 00:20:20 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36mQuestion Load (0.1ms)[0m  [1mSELECT "questions".* FROM "questions" WHERE "questions"."poll_id" = 1[0m
+  [1m[35m (0.6ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (3.8ms)[0m  [1mINSERT INTO "polls" ("created_at", "link", "name", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Wed, 01 Aug 2012 00:20:30 UTC +00:00], ["link", "5592275979"], ["name", nil], ["updated_at", Wed, 01 Aug 2012 00:20:30 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.6ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.3ms)[0m  INSERT INTO "polls" ("created_at", "link", "name", "updated_at") VALUES (?, ?, ?, ?)  [["created_at", Wed, 01 Aug 2012 00:20:30 UTC +00:00], ["link", "5592275979"], ["name", nil], ["updated_at", Wed, 01 Aug 2012 00:20:30 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.5ms)[0m  [1mINSERT INTO "questions" ("created_at", "poll_id", "prompt", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Wed, 01 Aug 2012 00:20:30 UTC +00:00], ["poll_id", 1], ["prompt", nil], ["updated_at", Wed, 01 Aug 2012 00:20:30 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36mQuestion Load (0.1ms)[0m  [1mSELECT "questions".* FROM "questions" WHERE "questions"."poll_id" = 1[0m
+  [1m[35m (0.7ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (4.0ms)[0m  [1mINSERT INTO "polls" ("created_at", "link", "name", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Wed, 01 Aug 2012 00:22:48 UTC +00:00], ["link", "6297488558"], ["name", nil], ["updated_at", Wed, 01 Aug 2012 00:22:48 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.6ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.3ms)[0m  INSERT INTO "polls" ("created_at", "link", "name", "updated_at") VALUES (?, ?, ?, ?)  [["created_at", Wed, 01 Aug 2012 00:22:48 UTC +00:00], ["link", "6297488558"], ["name", nil], ["updated_at", Wed, 01 Aug 2012 00:22:48 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.5ms)[0m  [1mINSERT INTO "questions" ("created_at", "poll_id", "prompt", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Wed, 01 Aug 2012 00:22:48 UTC +00:00], ["poll_id", 1], ["prompt", nil], ["updated_at", Wed, 01 Aug 2012 00:22:48 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36mQuestion Load (0.1ms)[0m  [1mSELECT "questions".* FROM "questions" WHERE "questions"."poll_id" = 1[0m
+  [1m[35m (0.6ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (4.5ms)[0m  [1mINSERT INTO "polls" ("created_at", "link", "name", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Wed, 01 Aug 2012 00:22:52 UTC +00:00], ["link", "0393925509"], ["name", nil], ["updated_at", Wed, 01 Aug 2012 00:22:52 UTC +00:00]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (14.6ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.6ms)[0m  INSERT INTO "polls" ("created_at", "link", "name", "updated_at") VALUES (?, ?, ?, ?)  [["created_at", Wed, 01 Aug 2012 00:22:52 UTC +00:00], ["link", "0393925509"], ["name", nil], ["updated_at", Wed, 01 Aug 2012 00:22:52 UTC +00:00]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.6ms)[0m  [1mINSERT INTO "questions" ("created_at", "poll_id", "prompt", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Wed, 01 Aug 2012 00:22:52 UTC +00:00], ["poll_id", 1], ["prompt", nil], ["updated_at", Wed, 01 Aug 2012 00:22:52 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36mQuestion Load (0.1ms)[0m  [1mSELECT "questions".* FROM "questions" WHERE "questions"."poll_id" = 1[0m
+  [1m[35m (0.6ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (3.9ms)[0m  [1mINSERT INTO "polls" ("created_at", "link", "name", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Wed, 01 Aug 2012 00:23:08 UTC +00:00], ["link", "1209534944"], ["name", nil], ["updated_at", Wed, 01 Aug 2012 00:23:08 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.5ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.3ms)[0m  INSERT INTO "polls" ("created_at", "link", "name", "updated_at") VALUES (?, ?, ?, ?)  [["created_at", Wed, 01 Aug 2012 00:23:08 UTC +00:00], ["link", "1209534944"], ["name", nil], ["updated_at", Wed, 01 Aug 2012 00:23:08 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.5ms)[0m  [1mINSERT INTO "questions" ("created_at", "poll_id", "prompt", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Wed, 01 Aug 2012 00:23:08 UTC +00:00], ["poll_id", 1], ["prompt", nil], ["updated_at", Wed, 01 Aug 2012 00:23:08 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36mQuestion Load (0.1ms)[0m  [1mSELECT "questions".* FROM "questions" WHERE "questions"."poll_id" = 1[0m
+  [1m[35m (0.6ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (3.9ms)[0m  [1mINSERT INTO "polls" ("created_at", "link", "name", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Wed, 01 Aug 2012 00:23:12 UTC +00:00], ["link", "6297873280"], ["name", nil], ["updated_at", Wed, 01 Aug 2012 00:23:12 UTC +00:00]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.5ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.3ms)[0m  INSERT INTO "polls" ("created_at", "link", "name", "updated_at") VALUES (?, ?, ?, ?)  [["created_at", Wed, 01 Aug 2012 00:23:12 UTC +00:00], ["link", "6297873280"], ["name", nil], ["updated_at", Wed, 01 Aug 2012 00:23:12 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.5ms)[0m  [1mINSERT INTO "questions" ("created_at", "poll_id", "prompt", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Wed, 01 Aug 2012 00:23:12 UTC +00:00], ["poll_id", 1], ["prompt", nil], ["updated_at", Wed, 01 Aug 2012 00:23:12 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36mQuestion Load (0.1ms)[0m  [1mSELECT "questions".* FROM "questions" WHERE "questions"."poll_id" = 1[0m
+  [1m[35m (0.6ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (4.1ms)[0m  [1mINSERT INTO "polls" ("created_at", "link", "name", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Wed, 01 Aug 2012 00:23:24 UTC +00:00], ["link", "1824110117"], ["name", nil], ["updated_at", Wed, 01 Aug 2012 00:23:24 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (33.3ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.6ms)[0m  INSERT INTO "polls" ("created_at", "link", "name", "updated_at") VALUES (?, ?, ?, ?)  [["created_at", Wed, 01 Aug 2012 00:23:24 UTC +00:00], ["link", "1824110117"], ["name", nil], ["updated_at", Wed, 01 Aug 2012 00:23:24 UTC +00:00]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.6ms)[0m  [1mINSERT INTO "questions" ("created_at", "poll_id", "prompt", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Wed, 01 Aug 2012 00:23:24 UTC +00:00], ["poll_id", 1], ["prompt", nil], ["updated_at", Wed, 01 Aug 2012 00:23:24 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36mQuestion Load (0.1ms)[0m  [1mSELECT "questions".* FROM "questions" WHERE "questions"."poll_id" = 1[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "questions" ("created_at", "poll_id", "prompt", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Wed, 01 Aug 2012 00:23:24 UTC +00:00], ["poll_id", 1], ["prompt", nil], ["updated_at", Wed, 01 Aug 2012 00:23:24 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.6ms)[0m  [1mrollback transaction[0m
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (3.8ms)[0m  [1mINSERT INTO "polls" ("created_at", "link", "name", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Wed, 01 Aug 2012 00:23:43 UTC +00:00], ["link", "7328764000"], ["name", nil], ["updated_at", Wed, 01 Aug 2012 00:23:43 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.7ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.3ms)[0m  INSERT INTO "polls" ("created_at", "link", "name", "updated_at") VALUES (?, ?, ?, ?)  [["created_at", Wed, 01 Aug 2012 00:23:43 UTC +00:00], ["link", "7328764000"], ["name", nil], ["updated_at", Wed, 01 Aug 2012 00:23:43 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.5ms)[0m  [1mINSERT INTO "questions" ("created_at", "poll_id", "prompt", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Wed, 01 Aug 2012 00:23:43 UTC +00:00], ["poll_id", 1], ["prompt", nil], ["updated_at", Wed, 01 Aug 2012 00:23:43 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36mQuestion Load (0.1ms)[0m  [1mSELECT "questions".* FROM "questions" WHERE "questions"."poll_id" = 1[0m
+  [1m[35m (0.7ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (4.1ms)[0m  [1mINSERT INTO "polls" ("created_at", "link", "name", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Wed, 01 Aug 2012 00:24:07 UTC +00:00], ["link", "4573337909"], ["name", nil], ["updated_at", Wed, 01 Aug 2012 00:24:07 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.8ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.6ms)[0m  INSERT INTO "polls" ("created_at", "link", "name", "updated_at") VALUES (?, ?, ?, ?)  [["created_at", Wed, 01 Aug 2012 00:24:07 UTC +00:00], ["link", "4573337909"], ["name", nil], ["updated_at", Wed, 01 Aug 2012 00:24:07 UTC +00:00]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.5ms)[0m  [1mINSERT INTO "questions" ("created_at", "poll_id", "prompt", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Wed, 01 Aug 2012 00:24:07 UTC +00:00], ["poll_id", 1], ["prompt", nil], ["updated_at", Wed, 01 Aug 2012 00:24:07 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36mQuestion Load (0.1ms)[0m  [1mSELECT "questions".* FROM "questions" WHERE "questions"."poll_id" = 1[0m
+  [1m[35m (0.6ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (5.4ms)[0m  [1mINSERT INTO "polls" ("created_at", "link", "name", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Wed, 01 Aug 2012 00:25:42 UTC +00:00], ["link", "4170157362"], ["name", "Nostrum ea unde officia excepturi accusamus quia quo quis."], ["updated_at", Wed, 01 Aug 2012 00:25:42 UTC +00:00]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.5ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.3ms)[0m  INSERT INTO "polls" ("created_at", "link", "name", "updated_at") VALUES (?, ?, ?, ?)  [["created_at", Wed, 01 Aug 2012 00:25:42 UTC +00:00], ["link", "4170157362"], ["name", "Nostrum ea unde officia excepturi accusamus quia quo quis."], ["updated_at", Wed, 01 Aug 2012 00:25:42 UTC +00:00]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.3ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (46.3ms)[0m  [1mINSERT INTO "polls" ("created_at", "link", "name", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Wed, 01 Aug 2012 00:33:19 UTC +00:00], ["link", "2504973695"], ["name", "Recusandae molestias accusantium assumenda esse illo dolorem ullam."], ["updated_at", Wed, 01 Aug 2012 00:33:19 UTC +00:00]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.6ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.4ms)[0m  INSERT INTO "polls" ("created_at", "link", "name", "updated_at") VALUES (?, ?, ?, ?)  [["created_at", Wed, 01 Aug 2012 00:33:19 UTC +00:00], ["link", "2504973695"], ["name", "Recusandae molestias accusantium assumenda esse illo dolorem ullam."], ["updated_at", Wed, 01 Aug 2012 00:33:19 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35mQuestion Load (0.1ms)[0m  SELECT "questions".* FROM "questions" WHERE "questions"."poll_id" = 1
+  [1m[36m (0.6ms)[0m  [1mrollback transaction[0m
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (18.3ms)[0m  [1mINSERT INTO "questions" ("created_at", "poll_id", "prompt", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Wed, 01 Aug 2012 00:38:52 UTC +00:00], ["poll_id", nil], ["prompt", nil], ["updated_at", Wed, 01 Aug 2012 00:38:52 UTC +00:00]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO "questions" ("created_at", "poll_id", "prompt", "updated_at") VALUES (?, ?, ?, ?)  [["created_at", Wed, 01 Aug 2012 00:38:52 UTC +00:00], ["poll_id", nil], ["prompt", nil], ["updated_at", Wed, 01 Aug 2012 00:38:52 UTC +00:00]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "questions" ("created_at", "poll_id", "prompt", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Wed, 01 Aug 2012 00:38:52 UTC +00:00], ["poll_id", nil], ["prompt", nil], ["updated_at", Wed, 01 Aug 2012 00:38:52 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.3ms)[0m  INSERT INTO "polls" ("created_at", "link", "name", "updated_at") VALUES (?, ?, ?, ?)  [["created_at", Wed, 01 Aug 2012 00:38:52 UTC +00:00], ["link", "6740267142"], ["name", "Itaque ut fugit nihil quas."], ["updated_at", Wed, 01 Aug 2012 00:38:52 UTC +00:00]]
+  [1m[36m (0.1ms)[0m  [1mUPDATE "questions" SET "poll_id" = 1, "updated_at" = '2012-08-01 00:38:52.907662' WHERE "questions"."id" = 1[0m
+  [1m[35m (0.1ms)[0m  UPDATE "questions" SET "poll_id" = 1, "updated_at" = '2012-08-01 00:38:52.909000' WHERE "questions"."id" = 2
+  [1m[36m (0.1ms)[0m  [1mUPDATE "questions" SET "poll_id" = 1, "updated_at" = '2012-08-01 00:38:52.909680' WHERE "questions"."id" = 3[0m
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.6ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.3ms)[0m  INSERT INTO "questions" ("created_at", "poll_id", "prompt", "updated_at") VALUES (?, ?, ?, ?)  [["created_at", Wed, 01 Aug 2012 00:38:52 UTC +00:00], ["poll_id", nil], ["prompt", nil], ["updated_at", Wed, 01 Aug 2012 00:38:52 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "questions" ("created_at", "poll_id", "prompt", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Wed, 01 Aug 2012 00:38:52 UTC +00:00], ["poll_id", nil], ["prompt", nil], ["updated_at", Wed, 01 Aug 2012 00:38:52 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "questions" ("created_at", "poll_id", "prompt", "updated_at") VALUES (?, ?, ?, ?)  [["created_at", Wed, 01 Aug 2012 00:38:52 UTC +00:00], ["poll_id", nil], ["prompt", nil], ["updated_at", Wed, 01 Aug 2012 00:38:52 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "polls" ("created_at", "link", "name", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Wed, 01 Aug 2012 00:38:52 UTC +00:00], ["link", "6740267142"], ["name", "Itaque ut fugit nihil quas."], ["updated_at", Wed, 01 Aug 2012 00:38:52 UTC +00:00]]
+  [1m[35m (0.1ms)[0m  UPDATE "questions" SET "poll_id" = 1, "updated_at" = '2012-08-01 00:38:52.917942' WHERE "questions"."id" = 1
+  [1m[36m (0.1ms)[0m  [1mUPDATE "questions" SET "poll_id" = 1, "updated_at" = '2012-08-01 00:38:52.918706' WHERE "questions"."id" = 2[0m
+  [1m[35m (0.1ms)[0m  UPDATE "questions" SET "poll_id" = 1, "updated_at" = '2012-08-01 00:38:52.919342' WHERE "questions"."id" = 3
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.5ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (4.4ms)[0m  [1mINSERT INTO "questions" ("created_at", "poll_id", "prompt", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Wed, 01 Aug 2012 00:38:56 UTC +00:00], ["poll_id", nil], ["prompt", nil], ["updated_at", Wed, 01 Aug 2012 00:38:56 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.3ms)[0m  INSERT INTO "questions" ("created_at", "poll_id", "prompt", "updated_at") VALUES (?, ?, ?, ?)  [["created_at", Wed, 01 Aug 2012 00:38:56 UTC +00:00], ["poll_id", nil], ["prompt", nil], ["updated_at", Wed, 01 Aug 2012 00:38:56 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "questions" ("created_at", "poll_id", "prompt", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Wed, 01 Aug 2012 00:38:56 UTC +00:00], ["poll_id", nil], ["prompt", nil], ["updated_at", Wed, 01 Aug 2012 00:38:56 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.3ms)[0m  INSERT INTO "polls" ("created_at", "link", "name", "updated_at") VALUES (?, ?, ?, ?)  [["created_at", Wed, 01 Aug 2012 00:38:56 UTC +00:00], ["link", "6446559593"], ["name", "Voluptatem voluptas est deserunt non voluptas ea."], ["updated_at", Wed, 01 Aug 2012 00:38:56 UTC +00:00]]
+  [1m[36m (0.1ms)[0m  [1mUPDATE "questions" SET "poll_id" = 1, "updated_at" = '2012-08-01 00:38:56.911810' WHERE "questions"."id" = 1[0m
+  [1m[35m (0.1ms)[0m  UPDATE "questions" SET "poll_id" = 1, "updated_at" = '2012-08-01 00:38:56.913281' WHERE "questions"."id" = 2
+  [1m[36m (0.1ms)[0m  [1mUPDATE "questions" SET "poll_id" = 1, "updated_at" = '2012-08-01 00:38:56.913980' WHERE "questions"."id" = 3[0m
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.7ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.3ms)[0m  INSERT INTO "questions" ("created_at", "poll_id", "prompt", "updated_at") VALUES (?, ?, ?, ?)  [["created_at", Wed, 01 Aug 2012 00:38:56 UTC +00:00], ["poll_id", nil], ["prompt", nil], ["updated_at", Wed, 01 Aug 2012 00:38:56 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.4ms)[0m  [1mINSERT INTO "questions" ("created_at", "poll_id", "prompt", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Wed, 01 Aug 2012 00:38:56 UTC +00:00], ["poll_id", nil], ["prompt", nil], ["updated_at", Wed, 01 Aug 2012 00:38:56 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "questions" ("created_at", "poll_id", "prompt", "updated_at") VALUES (?, ?, ?, ?)  [["created_at", Wed, 01 Aug 2012 00:38:56 UTC +00:00], ["poll_id", nil], ["prompt", nil], ["updated_at", Wed, 01 Aug 2012 00:38:56 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "polls" ("created_at", "link", "name", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Wed, 01 Aug 2012 00:38:56 UTC +00:00], ["link", "6446559593"], ["name", "Voluptatem voluptas est deserunt non voluptas ea."], ["updated_at", Wed, 01 Aug 2012 00:38:56 UTC +00:00]]
+  [1m[35m (0.1ms)[0m  UPDATE "questions" SET "poll_id" = 1, "updated_at" = '2012-08-01 00:38:56.922651' WHERE "questions"."id" = 1
+  [1m[36m (0.1ms)[0m  [1mUPDATE "questions" SET "poll_id" = 1, "updated_at" = '2012-08-01 00:38:56.923364' WHERE "questions"."id" = 2[0m
+  [1m[35m (0.1ms)[0m  UPDATE "questions" SET "poll_id" = 1, "updated_at" = '2012-08-01 00:38:56.923941' WHERE "questions"."id" = 3
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (1.2ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (4.0ms)[0m  [1mINSERT INTO "questions" ("created_at", "poll_id", "prompt", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Wed, 01 Aug 2012 00:42:53 UTC +00:00], ["poll_id", nil], ["prompt", "Asperiores quam minima unde animi et non velit iure."], ["updated_at", Wed, 01 Aug 2012 00:42:53 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.3ms)[0m  INSERT INTO "questions" ("created_at", "poll_id", "prompt", "updated_at") VALUES (?, ?, ?, ?)  [["created_at", Wed, 01 Aug 2012 00:42:53 UTC +00:00], ["poll_id", nil], ["prompt", "Eaque dolore accusantium voluptatum qui quod vel suscipit."], ["updated_at", Wed, 01 Aug 2012 00:42:53 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "questions" ("created_at", "poll_id", "prompt", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Wed, 01 Aug 2012 00:42:53 UTC +00:00], ["poll_id", nil], ["prompt", "Nesciunt temporibus autem nam eos aspernatur est."], ["updated_at", Wed, 01 Aug 2012 00:42:53 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.3ms)[0m  INSERT INTO "polls" ("created_at", "link", "name", "updated_at") VALUES (?, ?, ?, ?)  [["created_at", Wed, 01 Aug 2012 00:42:53 UTC +00:00], ["link", "1528721794"], ["name", "Tenetur odit nam eveniet."], ["updated_at", Wed, 01 Aug 2012 00:42:53 UTC +00:00]]
+  [1m[36m (0.1ms)[0m  [1mUPDATE "questions" SET "poll_id" = 1, "updated_at" = '2012-08-01 00:42:53.857562' WHERE "questions"."id" = 1[0m
+  [1m[35m (0.1ms)[0m  UPDATE "questions" SET "poll_id" = 1, "updated_at" = '2012-08-01 00:42:53.858926' WHERE "questions"."id" = 2
+  [1m[36m (0.1ms)[0m  [1mUPDATE "questions" SET "poll_id" = 1, "updated_at" = '2012-08-01 00:42:53.859549' WHERE "questions"."id" = 3[0m
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.6ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.3ms)[0m  INSERT INTO "questions" ("created_at", "poll_id", "prompt", "updated_at") VALUES (?, ?, ?, ?)  [["created_at", Wed, 01 Aug 2012 00:42:53 UTC +00:00], ["poll_id", nil], ["prompt", "Asperiores quam minima unde animi et non velit iure."], ["updated_at", Wed, 01 Aug 2012 00:42:53 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "questions" ("created_at", "poll_id", "prompt", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Wed, 01 Aug 2012 00:42:53 UTC +00:00], ["poll_id", nil], ["prompt", "Eaque dolore accusantium voluptatum qui quod vel suscipit."], ["updated_at", Wed, 01 Aug 2012 00:42:53 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "questions" ("created_at", "poll_id", "prompt", "updated_at") VALUES (?, ?, ?, ?)  [["created_at", Wed, 01 Aug 2012 00:42:53 UTC +00:00], ["poll_id", nil], ["prompt", "Nesciunt temporibus autem nam eos aspernatur est."], ["updated_at", Wed, 01 Aug 2012 00:42:53 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "polls" ("created_at", "link", "name", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Wed, 01 Aug 2012 00:42:53 UTC +00:00], ["link", "1528721794"], ["name", "Tenetur odit nam eveniet."], ["updated_at", Wed, 01 Aug 2012 00:42:53 UTC +00:00]]
+  [1m[35m (0.1ms)[0m  UPDATE "questions" SET "poll_id" = 1, "updated_at" = '2012-08-01 00:42:53.868155' WHERE "questions"."id" = 1
+  [1m[36m (0.1ms)[0m  [1mUPDATE "questions" SET "poll_id" = 1, "updated_at" = '2012-08-01 00:42:53.868843' WHERE "questions"."id" = 2[0m
+  [1m[35m (0.1ms)[0m  UPDATE "questions" SET "poll_id" = 1, "updated_at" = '2012-08-01 00:42:53.869431' WHERE "questions"."id" = 3
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (1.2ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (3.8ms)[0m  [1mINSERT INTO "questions" ("created_at", "poll_id", "prompt", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Wed, 01 Aug 2012 00:42:57 UTC +00:00], ["poll_id", nil], ["prompt", "Ut debitis repellendus itaque dolor magnam voluptate id quasi."], ["updated_at", Wed, 01 Aug 2012 00:42:57 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.3ms)[0m  INSERT INTO "questions" ("created_at", "poll_id", "prompt", "updated_at") VALUES (?, ?, ?, ?)  [["created_at", Wed, 01 Aug 2012 00:42:57 UTC +00:00], ["poll_id", nil], ["prompt", "Dignissimos quia deleniti aspernatur aut ipsa maxime suscipit non."], ["updated_at", Wed, 01 Aug 2012 00:42:57 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "questions" ("created_at", "poll_id", "prompt", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Wed, 01 Aug 2012 00:42:57 UTC +00:00], ["poll_id", nil], ["prompt", "Et deserunt dolores dolorem ut laboriosam."], ["updated_at", Wed, 01 Aug 2012 00:42:57 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.3ms)[0m  INSERT INTO "polls" ("created_at", "link", "name", "updated_at") VALUES (?, ?, ?, ?)  [["created_at", Wed, 01 Aug 2012 00:42:57 UTC +00:00], ["link", "1531141814"], ["name", "Molestiae tempore sunt nihil quia."], ["updated_at", Wed, 01 Aug 2012 00:42:57 UTC +00:00]]
+  [1m[36m (0.1ms)[0m  [1mUPDATE "questions" SET "poll_id" = 1, "updated_at" = '2012-08-01 00:42:57.852867' WHERE "questions"."id" = 1[0m
+  [1m[35m (0.1ms)[0m  UPDATE "questions" SET "poll_id" = 1, "updated_at" = '2012-08-01 00:42:57.854336' WHERE "questions"."id" = 2
+  [1m[36m (0.1ms)[0m  [1mUPDATE "questions" SET "poll_id" = 1, "updated_at" = '2012-08-01 00:42:57.855049' WHERE "questions"."id" = 3[0m
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.8ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.6ms)[0m  INSERT INTO "questions" ("created_at", "poll_id", "prompt", "updated_at") VALUES (?, ?, ?, ?)  [["created_at", Wed, 01 Aug 2012 00:42:57 UTC +00:00], ["poll_id", nil], ["prompt", "Ut debitis repellendus itaque dolor magnam voluptate id quasi."], ["updated_at", Wed, 01 Aug 2012 00:42:57 UTC +00:00]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.4ms)[0m  [1mINSERT INTO "questions" ("created_at", "poll_id", "prompt", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Wed, 01 Aug 2012 00:42:57 UTC +00:00], ["poll_id", nil], ["prompt", "Dignissimos quia deleniti aspernatur aut ipsa maxime suscipit non."], ["updated_at", Wed, 01 Aug 2012 00:42:57 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO "questions" ("created_at", "poll_id", "prompt", "updated_at") VALUES (?, ?, ?, ?)  [["created_at", Wed, 01 Aug 2012 00:42:57 UTC +00:00], ["poll_id", nil], ["prompt", "Et deserunt dolores dolorem ut laboriosam."], ["updated_at", Wed, 01 Aug 2012 00:42:57 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "polls" ("created_at", "link", "name", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Wed, 01 Aug 2012 00:42:57 UTC +00:00], ["link", "1531141814"], ["name", "Molestiae tempore sunt nihil quia."], ["updated_at", Wed, 01 Aug 2012 00:42:57 UTC +00:00]]
+  [1m[35m (0.1ms)[0m  UPDATE "questions" SET "poll_id" = 1, "updated_at" = '2012-08-01 00:42:57.868628' WHERE "questions"."id" = 1
+  [1m[36m (0.1ms)[0m  [1mUPDATE "questions" SET "poll_id" = 1, "updated_at" = '2012-08-01 00:42:57.869581' WHERE "questions"."id" = 2[0m
+  [1m[35m (0.1ms)[0m  UPDATE "questions" SET "poll_id" = 1, "updated_at" = '2012-08-01 00:42:57.870380' WHERE "questions"."id" = 3
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.4ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (3.8ms)[0m  [1mINSERT INTO "questions" ("created_at", "poll_id", "prompt", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Wed, 01 Aug 2012 00:43:04 UTC +00:00], ["poll_id", nil], ["prompt", "Nobis et architecto repudiandae ratione eos."], ["updated_at", Wed, 01 Aug 2012 00:43:04 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.3ms)[0m  INSERT INTO "questions" ("created_at", "poll_id", "prompt", "updated_at") VALUES (?, ?, ?, ?)  [["created_at", Wed, 01 Aug 2012 00:43:04 UTC +00:00], ["poll_id", nil], ["prompt", "Numquam reiciendis qui eaque dolor consequatur voluptatum."], ["updated_at", Wed, 01 Aug 2012 00:43:04 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "questions" ("created_at", "poll_id", "prompt", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Wed, 01 Aug 2012 00:43:04 UTC +00:00], ["poll_id", nil], ["prompt", "Saepe et amet libero sit aperiam."], ["updated_at", Wed, 01 Aug 2012 00:43:04 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.3ms)[0m  INSERT INTO "polls" ("created_at", "link", "name", "updated_at") VALUES (?, ?, ?, ?)  [["created_at", Wed, 01 Aug 2012 00:43:04 UTC +00:00], ["link", "7487490673"], ["name", "Pariatur quae assumenda earum rerum porro."], ["updated_at", Wed, 01 Aug 2012 00:43:04 UTC +00:00]]
+  [1m[36m (0.1ms)[0m  [1mUPDATE "questions" SET "poll_id" = 1, "updated_at" = '2012-08-01 00:43:04.221386' WHERE "questions"."id" = 1[0m
+  [1m[35m (0.1ms)[0m  UPDATE "questions" SET "poll_id" = 1, "updated_at" = '2012-08-01 00:43:04.222777' WHERE "questions"."id" = 2
+  [1m[36m (0.1ms)[0m  [1mUPDATE "questions" SET "poll_id" = 1, "updated_at" = '2012-08-01 00:43:04.223413' WHERE "questions"."id" = 3[0m
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.6ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.3ms)[0m  INSERT INTO "questions" ("created_at", "poll_id", "prompt", "updated_at") VALUES (?, ?, ?, ?)  [["created_at", Wed, 01 Aug 2012 00:43:04 UTC +00:00], ["poll_id", nil], ["prompt", "Nobis et architecto repudiandae ratione eos."], ["updated_at", Wed, 01 Aug 2012 00:43:04 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "questions" ("created_at", "poll_id", "prompt", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Wed, 01 Aug 2012 00:43:04 UTC +00:00], ["poll_id", nil], ["prompt", "Numquam reiciendis qui eaque dolor consequatur voluptatum."], ["updated_at", Wed, 01 Aug 2012 00:43:04 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "questions" ("created_at", "poll_id", "prompt", "updated_at") VALUES (?, ?, ?, ?)  [["created_at", Wed, 01 Aug 2012 00:43:04 UTC +00:00], ["poll_id", nil], ["prompt", "Saepe et amet libero sit aperiam."], ["updated_at", Wed, 01 Aug 2012 00:43:04 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "polls" ("created_at", "link", "name", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Wed, 01 Aug 2012 00:43:04 UTC +00:00], ["link", "7487490673"], ["name", "Pariatur quae assumenda earum rerum porro."], ["updated_at", Wed, 01 Aug 2012 00:43:04 UTC +00:00]]
+  [1m[35m (0.1ms)[0m  UPDATE "questions" SET "poll_id" = 1, "updated_at" = '2012-08-01 00:43:04.232009' WHERE "questions"."id" = 1
+  [1m[36m (0.1ms)[0m  [1mUPDATE "questions" SET "poll_id" = 1, "updated_at" = '2012-08-01 00:43:04.232699' WHERE "questions"."id" = 2[0m
+  [1m[35m (0.1ms)[0m  UPDATE "questions" SET "poll_id" = 1, "updated_at" = '2012-08-01 00:43:04.233270' WHERE "questions"."id" = 3
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.6ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (83.5ms)[0m  [1mINSERT INTO "questions" ("created_at", "poll_id", "prompt", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Wed, 01 Aug 2012 00:47:11 UTC +00:00], ["poll_id", nil], ["prompt", "Sed omnis harum vero."], ["updated_at", Wed, 01 Aug 2012 00:47:11 UTC +00:00]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO "questions" ("created_at", "poll_id", "prompt", "updated_at") VALUES (?, ?, ?, ?)  [["created_at", Wed, 01 Aug 2012 00:47:11 UTC +00:00], ["poll_id", nil], ["prompt", "Expedita nemo consequatur omnis."], ["updated_at", Wed, 01 Aug 2012 00:47:11 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "questions" ("created_at", "poll_id", "prompt", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Wed, 01 Aug 2012 00:47:11 UTC +00:00], ["poll_id", nil], ["prompt", "Et dignissimos non voluptatem aliquam nobis necessitatibus ratione amet."], ["updated_at", Wed, 01 Aug 2012 00:47:11 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.3ms)[0m  INSERT INTO "polls" ("created_at", "link", "name", "updated_at") VALUES (?, ?, ?, ?)  [["created_at", Wed, 01 Aug 2012 00:47:11 UTC +00:00], ["link", "4611616829"], ["name", "Tempora eius harum ea animi."], ["updated_at", Wed, 01 Aug 2012 00:47:11 UTC +00:00]]
+  [1m[36m (0.1ms)[0m  [1mUPDATE "questions" SET "poll_id" = 1, "updated_at" = '2012-08-01 00:47:11.355021' WHERE "questions"."id" = 1[0m
+  [1m[35m (0.1ms)[0m  UPDATE "questions" SET "poll_id" = 1, "updated_at" = '2012-08-01 00:47:11.356379' WHERE "questions"."id" = 2
+  [1m[36m (0.1ms)[0m  [1mUPDATE "questions" SET "poll_id" = 1, "updated_at" = '2012-08-01 00:47:11.357002' WHERE "questions"."id" = 3[0m
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.8ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.3ms)[0m  INSERT INTO "questions" ("created_at", "poll_id", "prompt", "updated_at") VALUES (?, ?, ?, ?)  [["created_at", Wed, 01 Aug 2012 00:47:11 UTC +00:00], ["poll_id", nil], ["prompt", "Sed omnis harum vero."], ["updated_at", Wed, 01 Aug 2012 00:47:11 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "questions" ("created_at", "poll_id", "prompt", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Wed, 01 Aug 2012 00:47:11 UTC +00:00], ["poll_id", nil], ["prompt", "Expedita nemo consequatur omnis."], ["updated_at", Wed, 01 Aug 2012 00:47:11 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "questions" ("created_at", "poll_id", "prompt", "updated_at") VALUES (?, ?, ?, ?)  [["created_at", Wed, 01 Aug 2012 00:47:11 UTC +00:00], ["poll_id", nil], ["prompt", "Et dignissimos non voluptatem aliquam nobis necessitatibus ratione amet."], ["updated_at", Wed, 01 Aug 2012 00:47:11 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "polls" ("created_at", "link", "name", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Wed, 01 Aug 2012 00:47:11 UTC +00:00], ["link", "4611616829"], ["name", "Tempora eius harum ea animi."], ["updated_at", Wed, 01 Aug 2012 00:47:11 UTC +00:00]]
+  [1m[35m (0.1ms)[0m  UPDATE "questions" SET "poll_id" = 1, "updated_at" = '2012-08-01 00:47:11.365856' WHERE "questions"."id" = 1
+  [1m[36m (0.1ms)[0m  [1mUPDATE "questions" SET "poll_id" = 1, "updated_at" = '2012-08-01 00:47:11.366570' WHERE "questions"."id" = 2[0m
+  [1m[35m (0.1ms)[0m  UPDATE "questions" SET "poll_id" = 1, "updated_at" = '2012-08-01 00:47:11.367176' WHERE "questions"."id" = 3
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.5ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (3.9ms)[0m  [1mINSERT INTO "questions" ("created_at", "poll_id", "prompt", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Wed, 01 Aug 2012 00:47:25 UTC +00:00], ["poll_id", nil], ["prompt", "Aperiam sit sint in."], ["updated_at", Wed, 01 Aug 2012 00:47:25 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.3ms)[0m  INSERT INTO "questions" ("created_at", "poll_id", "prompt", "updated_at") VALUES (?, ?, ?, ?)  [["created_at", Wed, 01 Aug 2012 00:47:25 UTC +00:00], ["poll_id", nil], ["prompt", "Ex et voluptatum et."], ["updated_at", Wed, 01 Aug 2012 00:47:25 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "questions" ("created_at", "poll_id", "prompt", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Wed, 01 Aug 2012 00:47:25 UTC +00:00], ["poll_id", nil], ["prompt", "Voluptates est et exercitationem vero saepe qui."], ["updated_at", Wed, 01 Aug 2012 00:47:25 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.3ms)[0m  INSERT INTO "polls" ("created_at", "link", "name", "updated_at") VALUES (?, ?, ?, ?)  [["created_at", Wed, 01 Aug 2012 00:47:25 UTC +00:00], ["link", "5148925232"], ["name", "Saepe totam est eum eos et accusamus atque."], ["updated_at", Wed, 01 Aug 2012 00:47:25 UTC +00:00]]
+  [1m[36m (0.1ms)[0m  [1mUPDATE "questions" SET "poll_id" = 1, "updated_at" = '2012-08-01 00:47:25.095412' WHERE "questions"."id" = 1[0m
+  [1m[35m (0.1ms)[0m  UPDATE "questions" SET "poll_id" = 1, "updated_at" = '2012-08-01 00:47:25.096757' WHERE "questions"."id" = 2
+  [1m[36m (0.1ms)[0m  [1mUPDATE "questions" SET "poll_id" = 1, "updated_at" = '2012-08-01 00:47:25.097398' WHERE "questions"."id" = 3[0m
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (41.6ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.6ms)[0m  INSERT INTO "questions" ("created_at", "poll_id", "prompt", "updated_at") VALUES (?, ?, ?, ?)  [["created_at", Wed, 01 Aug 2012 00:47:25 UTC +00:00], ["poll_id", nil], ["prompt", "Aperiam sit sint in."], ["updated_at", Wed, 01 Aug 2012 00:47:25 UTC +00:00]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.4ms)[0m  [1mINSERT INTO "questions" ("created_at", "poll_id", "prompt", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Wed, 01 Aug 2012 00:47:25 UTC +00:00], ["poll_id", nil], ["prompt", "Ex et voluptatum et."], ["updated_at", Wed, 01 Aug 2012 00:47:25 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO "questions" ("created_at", "poll_id", "prompt", "updated_at") VALUES (?, ?, ?, ?)  [["created_at", Wed, 01 Aug 2012 00:47:25 UTC +00:00], ["poll_id", nil], ["prompt", "Voluptates est et exercitationem vero saepe qui."], ["updated_at", Wed, 01 Aug 2012 00:47:25 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "polls" ("created_at", "link", "name", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Wed, 01 Aug 2012 00:47:25 UTC +00:00], ["link", "5148925232"], ["name", "Saepe totam est eum eos et accusamus atque."], ["updated_at", Wed, 01 Aug 2012 00:47:25 UTC +00:00]]
+  [1m[35m (0.1ms)[0m  UPDATE "questions" SET "poll_id" = 1, "updated_at" = '2012-08-01 00:47:25.151947' WHERE "questions"."id" = 1
+  [1m[36m (0.1ms)[0m  [1mUPDATE "questions" SET "poll_id" = 1, "updated_at" = '2012-08-01 00:47:25.152907' WHERE "questions"."id" = 2[0m
+  [1m[35m (0.1ms)[0m  UPDATE "questions" SET "poll_id" = 1, "updated_at" = '2012-08-01 00:47:25.153705' WHERE "questions"."id" = 3
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.5ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (4.0ms)[0m  [1mINSERT INTO "questions" ("created_at", "poll_id", "prompt", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Wed, 01 Aug 2012 00:47:34 UTC +00:00], ["poll_id", nil], ["prompt", "Sunt perferendis accusantium quia."], ["updated_at", Wed, 01 Aug 2012 00:47:34 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.3ms)[0m  INSERT INTO "questions" ("created_at", "poll_id", "prompt", "updated_at") VALUES (?, ?, ?, ?)  [["created_at", Wed, 01 Aug 2012 00:47:34 UTC +00:00], ["poll_id", nil], ["prompt", "Vel veniam voluptas asperiores magnam."], ["updated_at", Wed, 01 Aug 2012 00:47:34 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "questions" ("created_at", "poll_id", "prompt", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Wed, 01 Aug 2012 00:47:34 UTC +00:00], ["poll_id", nil], ["prompt", "Eum tempora id vero."], ["updated_at", Wed, 01 Aug 2012 00:47:34 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.4ms)[0m  INSERT INTO "polls" ("created_at", "link", "name", "updated_at") VALUES (?, ?, ?, ?)  [["created_at", Wed, 01 Aug 2012 00:47:34 UTC +00:00], ["link", "0024791763"], ["name", "Omnis et cumque sunt."], ["updated_at", Wed, 01 Aug 2012 00:47:34 UTC +00:00]]
+  [1m[36m (0.1ms)[0m  [1mUPDATE "questions" SET "poll_id" = 1, "updated_at" = '2012-08-01 00:47:34.527916' WHERE "questions"."id" = 1[0m
+  [1m[35m (0.1ms)[0m  UPDATE "questions" SET "poll_id" = 1, "updated_at" = '2012-08-01 00:47:34.529347' WHERE "questions"."id" = 2
+  [1m[36m (0.1ms)[0m  [1mUPDATE "questions" SET "poll_id" = 1, "updated_at" = '2012-08-01 00:47:34.530027' WHERE "questions"."id" = 3[0m
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (43.7ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.6ms)[0m  INSERT INTO "questions" ("created_at", "poll_id", "prompt", "updated_at") VALUES (?, ?, ?, ?)  [["created_at", Wed, 01 Aug 2012 00:47:34 UTC +00:00], ["poll_id", nil], ["prompt", "Sunt perferendis accusantium quia."], ["updated_at", Wed, 01 Aug 2012 00:47:34 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.4ms)[0m  [1mINSERT INTO "questions" ("created_at", "poll_id", "prompt", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Wed, 01 Aug 2012 00:47:34 UTC +00:00], ["poll_id", nil], ["prompt", "Vel veniam voluptas asperiores magnam."], ["updated_at", Wed, 01 Aug 2012 00:47:34 UTC +00:00]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO "questions" ("created_at", "poll_id", "prompt", "updated_at") VALUES (?, ?, ?, ?)  [["created_at", Wed, 01 Aug 2012 00:47:34 UTC +00:00], ["poll_id", nil], ["prompt", "Eum tempora id vero."], ["updated_at", Wed, 01 Aug 2012 00:47:34 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "polls" ("created_at", "link", "name", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Wed, 01 Aug 2012 00:47:34 UTC +00:00], ["link", "0024791763"], ["name", "Omnis et cumque sunt."], ["updated_at", Wed, 01 Aug 2012 00:47:34 UTC +00:00]]
+  [1m[35m (0.1ms)[0m  UPDATE "questions" SET "poll_id" = 1, "updated_at" = '2012-08-01 00:47:34.586307' WHERE "questions"."id" = 1
+  [1m[36m (0.1ms)[0m  [1mUPDATE "questions" SET "poll_id" = 1, "updated_at" = '2012-08-01 00:47:34.587220' WHERE "questions"."id" = 2[0m
+  [1m[35m (0.1ms)[0m  UPDATE "questions" SET "poll_id" = 1, "updated_at" = '2012-08-01 00:47:34.587820' WHERE "questions"."id" = 3
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.5ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (4.0ms)[0m  [1mINSERT INTO "questions" ("created_at", "poll_id", "prompt", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Wed, 01 Aug 2012 00:49:09 UTC +00:00], ["poll_id", nil], ["prompt", "Ducimus voluptatem similique sed quis."], ["updated_at", Wed, 01 Aug 2012 00:49:09 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.3ms)[0m  INSERT INTO "questions" ("created_at", "poll_id", "prompt", "updated_at") VALUES (?, ?, ?, ?)  [["created_at", Wed, 01 Aug 2012 00:49:09 UTC +00:00], ["poll_id", nil], ["prompt", "Necessitatibus facere aut voluptatem quod."], ["updated_at", Wed, 01 Aug 2012 00:49:09 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "questions" ("created_at", "poll_id", "prompt", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Wed, 01 Aug 2012 00:49:09 UTC +00:00], ["poll_id", nil], ["prompt", "Facere cum facilis voluptatem incidunt dolor minus sapiente."], ["updated_at", Wed, 01 Aug 2012 00:49:09 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.3ms)[0m  INSERT INTO "polls" ("created_at", "link", "name", "updated_at") VALUES (?, ?, ?, ?)  [["created_at", Wed, 01 Aug 2012 00:49:10 UTC +00:00], ["link", "2171041565"], ["name", "Vitae exercitationem eius assumenda et eos et."], ["updated_at", Wed, 01 Aug 2012 00:49:10 UTC +00:00]]
+  [1m[36m (0.1ms)[0m  [1mUPDATE "questions" SET "poll_id" = 1, "updated_at" = '2012-08-01 00:49:10.045475' WHERE "questions"."id" = 1[0m
+  [1m[35m (0.1ms)[0m  UPDATE "questions" SET "poll_id" = 1, "updated_at" = '2012-08-01 00:49:10.046809' WHERE "questions"."id" = 2
+  [1m[36m (0.1ms)[0m  [1mUPDATE "questions" SET "poll_id" = 1, "updated_at" = '2012-08-01 00:49:10.047449' WHERE "questions"."id" = 3[0m
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (8.9ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.3ms)[0m  INSERT INTO "questions" ("created_at", "poll_id", "prompt", "updated_at") VALUES (?, ?, ?, ?)  [["created_at", Wed, 01 Aug 2012 00:49:10 UTC +00:00], ["poll_id", nil], ["prompt", "Ducimus voluptatem similique sed quis."], ["updated_at", Wed, 01 Aug 2012 00:49:10 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "questions" ("created_at", "poll_id", "prompt", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Wed, 01 Aug 2012 00:49:10 UTC +00:00], ["poll_id", nil], ["prompt", "Necessitatibus facere aut voluptatem quod."], ["updated_at", Wed, 01 Aug 2012 00:49:10 UTC +00:00]]
+  [1m[35m (0.0ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "questions" ("created_at", "poll_id", "prompt", "updated_at") VALUES (?, ?, ?, ?)  [["created_at", Wed, 01 Aug 2012 00:49:10 UTC +00:00], ["poll_id", nil], ["prompt", "Facere cum facilis voluptatem incidunt dolor minus sapiente."], ["updated_at", Wed, 01 Aug 2012 00:49:10 UTC +00:00]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "polls" ("created_at", "link", "name", "updated_at") VALUES (?, ?, ?, ?)[0m  [["created_at", Wed, 01 Aug 2012 00:49:10 UTC +00:00], ["link", "2171041565"], ["name", "Vitae exercitationem eius assumenda et eos et."], ["updated_at", Wed, 01 Aug 2012 00:49:10 UTC +00:00]]
+  [1m[35m (0.1ms)[0m  UPDATE "questions" SET "poll_id" = 1, "updated_at" = '2012-08-01 00:49:10.064864' WHERE "questions"."id" = 1
+  [1m[36m (0.1ms)[0m  [1mUPDATE "questions" SET "poll_id" = 1, "updated_at" = '2012-08-01 00:49:10.065572' WHERE "questions"."id" = 2[0m
+  [1m[35m (0.1ms)[0m  UPDATE "questions" SET "poll_id" = 1, "updated_at" = '2012-08-01 00:49:10.066145' WHERE "questions"."id" = 3
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.6ms)[0m  rollback transaction

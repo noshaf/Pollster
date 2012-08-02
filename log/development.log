@@ -7494,3 +7494,298 @@ Served asset /answers.js - 304 Not Modified (0ms)
 
 Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-07-31 10:59:06 -0700
 Served asset /application.js - 304 Not Modified (0ms)
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+  [1m[36m (0.5ms)[0m  [1mSELECT "schema_migrations"."version" FROM "schema_migrations" [0m
+  [1m[35m (0.3ms)[0m  select sqlite_version(*)
+  [1m[36m (2.0ms)[0m  [1mCREATE TABLE "answers" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "statement" varchar(255), "check" integer, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL, "question_id" integer) [0m
+  [1m[35m (1.8ms)[0m  CREATE TABLE "polls" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar(255), "link" varchar(255), "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) 
+  [1m[36m (0.9ms)[0m  [1mCREATE TABLE "questions" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "prompt" varchar(255), "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL, "poll_id" integer) [0m
+  [1m[35m (1.7ms)[0m  CREATE TABLE "schema_migrations" ("version" varchar(255) NOT NULL) 
+  [1m[36m (0.0ms)[0m  [1mPRAGMA index_list("schema_migrations")[0m
+  [1m[35m (1.2ms)[0m  CREATE UNIQUE INDEX "unique_schema_migrations" ON "schema_migrations" ("version")
+  [1m[36m (0.1ms)[0m  [1mSELECT version FROM "schema_migrations"[0m
+  [1m[35m (1.3ms)[0m  INSERT INTO "schema_migrations" (version) VALUES ('20120730213934')
+  [1m[36m (1.0ms)[0m  [1mINSERT INTO "schema_migrations" (version) VALUES ('20120730175944')[0m
+  [1m[35m (1.7ms)[0m  INSERT INTO "schema_migrations" (version) VALUES ('20120730180339')
+  [1m[36m (1.3ms)[0m  [1mINSERT INTO "schema_migrations" (version) VALUES ('20120730180718')[0m
+  [1m[35m (1.3ms)[0m  INSERT INTO "schema_migrations" (version) VALUES ('20120730213908')
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mSELECT "schema_migrations"."version" FROM "schema_migrations" [0m
+  [1m[35m (0.2ms)[0m  select sqlite_version(*)
+  [1m[36m (2.4ms)[0m  [1mCREATE TABLE "answers" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "statement" varchar(255), "check" integer, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL, "question_id" integer) [0m
+  [1m[35m (1.4ms)[0m  CREATE TABLE "polls" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar(255), "link" varchar(255), "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) 
+  [1m[36m (1.6ms)[0m  [1mCREATE TABLE "questions" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "prompt" varchar(255), "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL, "poll_id" integer) [0m
+  [1m[35m (1.2ms)[0m  CREATE TABLE "schema_migrations" ("version" varchar(255) NOT NULL) 
+  [1m[36m (0.0ms)[0m  [1mPRAGMA index_list("schema_migrations")[0m
+  [1m[35m (1.3ms)[0m  CREATE UNIQUE INDEX "unique_schema_migrations" ON "schema_migrations" ("version")
+  [1m[36m (0.1ms)[0m  [1mSELECT version FROM "schema_migrations"[0m
+  [1m[35m (1.4ms)[0m  INSERT INTO "schema_migrations" (version) VALUES ('20120730213934')
+  [1m[36m (1.4ms)[0m  [1mINSERT INTO "schema_migrations" (version) VALUES ('20120730175944')[0m
+  [1m[35m (1.1ms)[0m  INSERT INTO "schema_migrations" (version) VALUES ('20120730180339')
+  [1m[36m (1.0ms)[0m  [1mINSERT INTO "schema_migrations" (version) VALUES ('20120730180718')[0m
+  [1m[35m (1.1ms)[0m  INSERT INTO "schema_migrations" (version) VALUES ('20120730213908')
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-01 22:25:20 -0700
+Connecting to database specified by database.yml
+Processing by PollsController#new as HTML
+  Rendered polls/new.html.erb within layouts/application (232.1ms)
+Completed 200 OK in 605ms (Views: 517.3ms | ActiveRecord: 11.3ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-01 22:25:22 -0700
+Served asset /application.css - 200 OK (11ms)
+
+
+Started GET "/assets/answers.css?body=1" for 127.0.0.1 at 2012-08-01 22:25:22 -0700
+Served asset /answers.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2012-08-01 22:25:22 -0700
+Served asset /bootstrap_and_overrides.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-01 22:25:22 -0700
+Served asset /jquery_ujs.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-01 22:25:22 -0700
+Served asset /jquery.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/questions.css?body=1" for 127.0.0.1 at 2012-08-01 22:25:22 -0700
+Served asset /questions.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/polls.js?body=1" for 127.0.0.1 at 2012-08-01 22:25:22 -0700
+Served asset /polls.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/questions.js?body=1" for 127.0.0.1 at 2012-08-01 22:25:22 -0700
+Served asset /questions.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-01 22:25:22 -0700
+Served asset /application.js - 200 OK (7ms)
+
+
+Started GET "/assets/answers.js?body=1" for 127.0.0.1 at 2012-08-01 22:25:22 -0700
+Served asset /answers.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/polls.css?body=1" for 127.0.0.1 at 2012-08-01 22:25:22 -0700
+Served asset /polls.css - 304 Not Modified (1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-01 22:25:35 -0700
+Processing by PollsController#new as HTML
+  Rendered polls/new.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 8ms (Views: 7.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-01 22:25:35 -0700
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2012-08-01 22:25:35 -0700
+Served asset /bootstrap_and_overrides.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/answers.css?body=1" for 127.0.0.1 at 2012-08-01 22:25:35 -0700
+Served asset /answers.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/polls.css?body=1" for 127.0.0.1 at 2012-08-01 22:25:35 -0700
+Served asset /polls.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/questions.css?body=1" for 127.0.0.1 at 2012-08-01 22:25:35 -0700
+Served asset /questions.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-01 22:25:35 -0700
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-01 22:25:35 -0700
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/polls.js?body=1" for 127.0.0.1 at 2012-08-01 22:25:35 -0700
+Served asset /polls.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/answers.js?body=1" for 127.0.0.1 at 2012-08-01 22:25:35 -0700
+Served asset /answers.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-01 22:25:35 -0700
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/questions.js?body=1" for 127.0.0.1 at 2012-08-01 22:25:35 -0700
+Served asset /questions.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-01 22:25:38 -0700
+Processing by PollsController#new as HTML
+  Rendered polls/new.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 7ms (Views: 6.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/answers.css?body=1" for 127.0.0.1 at 2012-08-01 22:25:38 -0700
+Served asset /answers.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/questions.css?body=1" for 127.0.0.1 at 2012-08-01 22:25:38 -0700
+Served asset /questions.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/polls.css?body=1" for 127.0.0.1 at 2012-08-01 22:25:38 -0700
+Served asset /polls.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-01 22:25:38 -0700
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2012-08-01 22:25:38 -0700
+Served asset /bootstrap_and_overrides.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-01 22:25:38 -0700
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-01 22:25:38 -0700
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/answers.js?body=1" for 127.0.0.1 at 2012-08-01 22:25:38 -0700
+Served asset /answers.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/polls.js?body=1" for 127.0.0.1 at 2012-08-01 22:25:38 -0700
+Served asset /polls.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/questions.js?body=1" for 127.0.0.1 at 2012-08-01 22:25:38 -0700
+Served asset /questions.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-01 22:25:38 -0700
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-08-01 22:25:56 -0700
+Processing by PollsController#new as HTML
+  Rendered polls/new.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 8ms (Views: 7.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-01 22:25:56 -0700
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/answers.css?body=1" for 127.0.0.1 at 2012-08-01 22:25:56 -0700
+Served asset /answers.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/polls.css?body=1" for 127.0.0.1 at 2012-08-01 22:25:56 -0700
+Served asset /polls.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2012-08-01 22:25:56 -0700
+Served asset /bootstrap_and_overrides.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/questions.css?body=1" for 127.0.0.1 at 2012-08-01 22:25:56 -0700
+Served asset /questions.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-01 22:25:56 -0700
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-01 22:25:56 -0700
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/answers.js?body=1" for 127.0.0.1 at 2012-08-01 22:25:56 -0700
+Served asset /answers.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/polls.js?body=1" for 127.0.0.1 at 2012-08-01 22:25:56 -0700
+Served asset /polls.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/questions.js?body=1" for 127.0.0.1 at 2012-08-01 22:25:56 -0700
+Served asset /questions.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-01 22:25:56 -0700
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started POST "/polls" for 127.0.0.1 at 2012-08-01 22:26:24 -0700
+Processing by PollsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"ZrYfl31+sg7o0g/h6zHpUPzXfj9JscEkrdRuxMyg3CY=", "poll"=>{"name"=>"Word"}, "commit"=>"Create Poll"}
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (75.4ms)[0m  INSERT INTO "polls" ("created_at", "link", "name", "updated_at") VALUES (?, ?, ?, ?)  [["created_at", Thu, 02 Aug 2012 05:26:24 UTC +00:00], ["link", "6864461633"], ["name", "Word"], ["updated_at", Thu, 02 Aug 2012 05:26:24 UTC +00:00]]
+  [1m[36m (1.6ms)[0m  [1mcommit transaction[0m
+Redirected to http://localhost:3000/polls/22/edit
+Completed 302 Found in 81ms (ActiveRecord: 77.1ms)
+
+
+Started GET "/polls/22/edit" for 127.0.0.1 at 2012-08-01 22:26:24 -0700
+Processing by PollsController#edit as HTML
+  Parameters: {"id"=>"22"}
+  [1m[35mPoll Load (0.2ms)[0m  SELECT "polls".* FROM "polls" WHERE "polls"."id" = ? LIMIT 1  [["id", "22"]]
+  [1m[36mQuestion Load (0.2ms)[0m  [1mSELECT "questions".* FROM "questions" WHERE "questions"."poll_id" = 22[0m
+  Rendered polls/edit.html.erb within layouts/application (67.6ms)
+Completed 200 OK in 131ms (Views: 95.7ms | ActiveRecord: 0.8ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-08-01 22:26:24 -0700
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/questions.css?body=1" for 127.0.0.1 at 2012-08-01 22:26:24 -0700
+Served asset /questions.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/answers.css?body=1" for 127.0.0.1 at 2012-08-01 22:26:24 -0700
+Served asset /answers.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2012-08-01 22:26:24 -0700
+Served asset /bootstrap_and_overrides.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/polls.css?body=1" for 127.0.0.1 at 2012-08-01 22:26:24 -0700
+Served asset /polls.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-08-01 22:26:24 -0700
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-08-01 22:26:24 -0700
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/answers.js?body=1" for 127.0.0.1 at 2012-08-01 22:26:24 -0700
+Served asset /answers.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/questions.js?body=1" for 127.0.0.1 at 2012-08-01 22:26:24 -0700
+Served asset /questions.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/polls.js?body=1" for 127.0.0.1 at 2012-08-01 22:26:24 -0700
+Served asset /polls.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-08-01 22:26:24 -0700
+Served asset /application.js - 304 Not Modified (0ms)

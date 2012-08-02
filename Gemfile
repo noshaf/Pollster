@@ -4,8 +4,16 @@ gem 'rails', '3.2.6'
 
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
-group :development do
+group :development, :test do
   gem 'sqlite3'
+  gem 'rspec-rails'
+  gem 'factory_girl_rails'
+  gem 'capybara'
+  gem 'guard-rspec'
+  gem 'simplecov'
+  gem 'fabrication'
+  gem 'faker'
+  gem 'database_cleaner'
 end
 
 group :production do
